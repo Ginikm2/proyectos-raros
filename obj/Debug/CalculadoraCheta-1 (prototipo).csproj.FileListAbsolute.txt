@@ -1,0 +1,11 @@
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\bin\Debug\CalculadoraCheta-1 (prototipo).exe.config
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\bin\Debug\CalculadoraCheta-1 (prototipo).exe
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\bin\Debug\CalculadoraCheta-1 (prototipo).pdb
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta-1 (prototipo).csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta-1 (prototipo).csproj.SuggestedBindingRedirects.cache
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta_1__prototipo_.Form1.resources
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta_1__prototipo_.Properties.Resources.resources
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta-1 (prototipo).csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta-1 (prototipo).csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta-1 (prototipo).exe
+C:\Users\MINEDUCYT\source\repos\CalculadoraCheta-1 (prototipo)\obj\Debug\CalculadoraCheta-1 (prototipo).pdb
